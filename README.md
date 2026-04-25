@@ -54,7 +54,7 @@ ConsoleChat — это консольное приложение для обме
 
 Проект разработан в учебных целях.
 
-## На Английсском:
+# На Английсском:
 # ConsoleChat
 
 ConsoleChat is a C# console-based chat application developed as an educational project to demonstrate the implementation of user authentication, local chat management, and basic network communication between computers.
