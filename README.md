@@ -88,7 +88,7 @@ The purpose of this project is to demonstrate practical use of:
 
 Complete documentation for installation, project setup, launch instructions, command reference, and usage examples is available in the **Wiki** section of this repository.
 
-Please refer to the **[Wiki](https://clck.ru/3Tg9n9)** for:
+Please refer to the **[Wiki](https://clck.ru/3TgAHD)** for:
 
 - system and installation requirements;
 - how to open and run the console project;
